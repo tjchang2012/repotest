@@ -1,2 +1,0 @@
-# repotest
-test for slidify
